@@ -1,6 +1,7 @@
 # Black–Scholes Option Pricing Dashboard
 
-![Dashboard screenshot](screenshot.png)
+![Uploading Screenshot 2026-06-20 114414.png…]()
+
 
 A professional-grade option pricer with real-time Greeks, a payoff chart, and an implied volatility solver. Built as a **single self-contained HTML file** — open it in a browser and it just works.
 
